@@ -1,5 +1,13 @@
 # README
 
+# mercariclone
+
+# 概要
+チームによるアジャイル開発で作成したメルカリのクローンサイト
+
+# 技術・環境
+
+
 # mercari  DB設計
 ## usersテーブル
 |Column|Type|Options|
