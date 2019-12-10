@@ -6,6 +6,16 @@
 チームによるアジャイル開発で作成したメルカリのクローンサイト
 
 # 技術・環境
+- ruby 2.5.1
+- Rails 5.2.3
+- carrierwave（画像アップロード）
+- ransack（検索機能）
+- devise（認証）
+- omniauth（認証）
+- payjp（購入）
+- ancestry（カテゴリー管理）
+- unicorn（デプロイ）
+- AWS（デプロイ）
 
 
 # mercari  DB設計
