@@ -4,7 +4,7 @@
 
 # 概要
 チームによるアジャイル開発で作成したメルカリのクローンサイト
-<a href="https://docs.google.com/document/d/132-cMrTt1R8q_F_JjciesF5yyKcMQK13s6Eqg9MIy7Q/edit#heading=h.uc9r1bu1xm1f">詳細</a>
+<a href="https://docs.google.com/document/d/132-cMrTt1R8q_F_JjciesF5yyKcMQK13s6Eqg9MIy7Q/edit#heading=h.uc9r1bu1xm1f" target="new">詳細</a>
 
 # 技術・環境
 - ruby 2.5.1
