@@ -2,7 +2,7 @@
 
 # mercariclone
 http://52.194.135.25/<br>
-admin: admin
+admin: admin<br>
 パスワード: 43543
 
 # 概要
