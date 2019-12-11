@@ -1,7 +1,7 @@
 # README
 
 # mercariclone
-http://52.194.135.25/
+http://52.194.135.25/<br>
 admin: admin
 パスワード: 43543
 
